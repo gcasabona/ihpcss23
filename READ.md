@@ -7,3 +7,6 @@ no hobbies
 Hailey
 USC
 
+Elsa
+LLNL
+CrossFit
